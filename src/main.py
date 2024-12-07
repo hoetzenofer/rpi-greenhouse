@@ -13,3 +13,4 @@ set_state(17, True)
 t.sleep(3)
 
 GPIO.cleanup()
+
